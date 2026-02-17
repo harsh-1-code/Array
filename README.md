@@ -1,5 +1,7 @@
 # Array
 Solving Array DSA questions
+Author : Harsh Kumar Singh [0176CD231067] CSE(Data Science)
+copyright_content@harshkumar.mac@gmail.com
 Arrays Problems:
 
 1. Reverse an Array
