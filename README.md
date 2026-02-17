@@ -1,4 +1,4 @@
-# Array
+# Array  harsh-1-code
 Solving Array DSA questions <br>
 Author : Harsh Kumar Singh [0176CD231067] CSE(Data Science) <br>
 copyright_content@harshkumar.mac@gmail.com <br>
